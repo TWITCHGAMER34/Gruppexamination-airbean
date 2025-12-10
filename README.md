@@ -16,7 +16,7 @@
   * x
 * ### Algorithm design
   * x
-*  ### Avvägningar
+* ### Avvägningar
   * x
 * ### Tolkningar
   * x
