@@ -22,11 +22,6 @@
   * x
 
 ---
-
-## Seminariumfrågor
-
-
----
 ## Gruppmedlemmar
 * Elias
 * Pär
