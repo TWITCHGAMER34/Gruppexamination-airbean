@@ -21,3 +21,13 @@
 * ### Tolkningar
   * x
 
+---
+
+## Seminariumfrågor
+
+
+---
+## Gruppmedlemmar
+* Elias
+* Pär
+* Zoltan
