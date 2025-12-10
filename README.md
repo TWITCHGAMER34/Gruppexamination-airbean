@@ -9,20 +9,20 @@
 ## Sammanfattning
 
 * ### Decompisition
-  * x
+  * Vi utgick från Figma-skissens layout så mycket som möjligt, men gjorde tillägg där vi ansåg att det behövdes (se under “Egna avvägningar/tolkningar”).
 * ### Pattern recognition
-  * x
+  * Vi identifierade de delar som återkommer på flera ställen: Hamburgarmeny, produktkort, knappar och orderstatus.
 * ### Abstraction
-  * x
+  * Vi identifierade de delar som är mest centrala för applikationen: utforska produkter, välja och lägga till i varukorg, bekräfta köp och att följa ordern.
 * ### Algorithm design
-  * x
-* ### Avvägningar
-  * x
-* ### Tolkningar
-  * x
+  * Vi konkretiserade applikationens huvudsakliga flöde för att få fram de funktioner som är relevanta.
+* ### Egna avvägningar/tolkningar
+  * Till exempel vid utcheckning så ges alternativet att välja mellan att checka ut med eller utan konto, som gäst. Man kan även välja att skapa ett konto. Vi lade även till ett steg där man anger leverans- och betaluppgifter.
+  * Vi valde att se navigeringen som en egen “sida” eftersom den återkommer på flera sidor.
+
 
 ---
 ## Gruppmedlemmar
-* Elias
-* Pär
-* Zoltan
+1. **Elias** 
+2. **Pär**
+3. **Zoltan** 
